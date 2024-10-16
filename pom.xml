@@ -11,7 +11,7 @@
 	<groupId>com.global</groupId>
 	<artifactId>file</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>ManageImage</name>
 	<description>online shoping</description>
 	<url/>
